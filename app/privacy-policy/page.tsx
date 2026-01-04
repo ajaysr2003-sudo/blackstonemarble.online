@@ -1,4 +1,4 @@
-"use client";
+// "use client";
 
 import { MessageCircle } from "lucide-react";
 
@@ -152,3 +152,4 @@ export default function PrivacyPolicy() {
         </main>
     );
 }
+
